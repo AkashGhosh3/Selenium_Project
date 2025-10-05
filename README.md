@@ -1,5 +1,6 @@
 The Selenium C++ Automation Testing Framework is a lightweight, modular, and efficient browser automation framework developed entirely in C++17 using the WebDriverXX library and Google Test (GTest).
 This project demonstrates end-to-end automation capabilities, simulating browser-driven interactions such as navigation, input handling, and result validation on real web applications like Google and Naukri.
+
 Key Features:
 
 Custom Automation Framework:
@@ -24,10 +25,10 @@ Error Handling & Resilience:
 Incorporated robust exception handling for failed WebDriver sessions and invalid HTTP responses.
 
 Technical Description
-Category	                       Technology
-Programming Language	             C++17
-Test Framework	               Google Test (GTest)
-Browser Automation	           WebDriverXX (C++ Selenium Client)
-Browser	Google                 Chrome (via ChromeDriver)
-Build Tool	                    g++ / MinGW (MSYS2)
+
+Programming Language	    -         C++17
+Test Framework	          -     Google Test (GTest)
+Browser Automation	      -     WebDriverXX (C++ Selenium Client)
+Browser	Google            -     Chrome (via ChromeDriver)
+Build Tool	              -      g++ / MinGW (MSYS2)
 Communication Protocol	       HTTP/JSON WebDriver API
